@@ -9,7 +9,7 @@
 
 <channel>
 	<title>admin &#8211; Hotels</title>
-	<atom:link href="http://localhost/flutter-wp/author/admin/feed/?simply_static_page=62" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/flutter-wp/author/admin/feed/?simply_static_page=94" rel="self" type="application/rss+xml" />
 	<link>https://mohammadnoor27.github.io/hotels-api</link>
 	<description></description>
 	<lastBuildDate>Sat, 25 Nov 2023 23:47:55 +0000</lastBuildDate>
